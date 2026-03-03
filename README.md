@@ -74,5 +74,5 @@ Trabajo en inglés con Slack/videollamadas/tickets, metodología Agile, Jira y G
 Ante cualquier duda pueden consultar o contarme en:  
 **Jesús Garay Franco**  
 LinkedIn: https://www.linkedin.com/in/jesus-garay-franco/  
-Email: jesus.garay.f@gmail.com
+Email: jesus.garay.f@gmail.com  
 CV: [JesúsGarayFranco - 2026](https://github.com/JesusGarayPF/portfolio/blob/main/CV%20JesusGarayFranco%202026.pdf)

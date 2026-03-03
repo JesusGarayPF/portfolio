@@ -3,16 +3,16 @@
 Desarrollador junior con formación en DAM y experiencia práctica en integración y automatización (Azure Functions + HubSpot), y en desarrollo web (Angular/TS). Me interesan tanto el trabajo en back como en front la arquitectura modular, los productos que se puedan desplegar en web/escritorio/móvil y el uso de agentes IA para automatización
 
 - 📍 Madrid, España
-- 🔗 LinkedIn: https://www.linkedin.com/in/jesus-garay-franco/
-- 📫 Email: jesus.garay.f@gmail.com
+- 🔗 LinkedIn: [https://www.linkedin.com/in/jesus-garay-franco/]
+- 📫 Email: [jesus.garay.f@gmail.com]
 
 ---
 
 ## Proyectos destacados
 
-### 1) [Escriba] — App offline-first (STT/TTS/diarización/síntesis)
+### 1) Escriba — App offline-first (STT/TTS/diarización/síntesis)
 **Qué es:** aplicación modular con herramientas de transcripción (STT), síntesis (TTS), diarización y resúmenes; diseñada con enfoque **offline-first** y preparada para funcionar en **web / desktop / móvil**.  
-**Stack:** [Angular/Svelte/Node/Python/etc — rellena]  
+**Stack:** Angular (v20, zoneless), Node.js, Express, TypeScript, Whisper.cpp (STT), Piper (TTS), FFmpeg 
 **Puntos fuertes:**
 - Arquitectura modular para cambiar proveedores/servicios sin reescribir el producto
 - Persistencia local y flujo offline-first
@@ -20,19 +20,23 @@ Desarrollador junior con formación en DAM y experiencia práctica en integraci�
 - Fase actual: Integración de LLM para síntesis/resumen
 
 **Links:**
-- Repo: https://github.com/JesusGarayPF/escriba_voice_app
+- Repo: [Escriba Voice App](https://github.com/JesusGarayPF/escriba_voice_app)
 
 ---
 
-### 2) Angular + TypeScript — Mini proyectos (curso + extensiones)
-Colección de mini webs enfocadas en fundamentos de Angular/TS y patrones comunes (estado, componentes, consumo de APIs, persistencia local).
+### GifsApp — Buscador y colección de GIFs (Angular + Giphy)
 
-Incluye, entre otros:
-- **Infinite GIF Browser**: scroll infinito + persistencia con `localStorage`
-- [OTROS_PROYECTOS_CORTOS]
+**Qué es:** aplicación para buscar y coleccionar GIFs integrada con la **API de Giphy**, enfocada en una experiencia rápida y reactiva.
+**Stack**: Angular v20 (Signals), TypeScript, RxJS, Tailwind CSS v4, Giphy API
+**Puntos fuertes:**
+- Búsqueda en tiempo real
+- Historial de búsquedas con **persistencia en LocalStorage**
+- Vista de **Trending GIFs** al iniciar
+- UI minimalista y responsive con **Tailwind CSS v4**
+- Componentización modular (`Sidebar`, `Card`, `GifsList`)
 
 **Links:**
-- Repo: https://github.com/JesusGarayPF/angular_typescript_proyects
+- Repo: [Gif Browser](https://github.com/JesusGarayPF/angular_typescript_proyects)
 
 ---
 
@@ -46,15 +50,14 @@ Incluye, entre otros:
 - Creación de una herramienta Unity para facilitar pruebas y modificación de los datos del mapa
 
 **Descarga y materiales:**
-- 🎮 Build (Windows): [LINK_RELEASE_DESCARGA]
-- 📽️ Presentación PPT: `presentation/TFG_Juego.pptx`
-- 🗣️ Guion resumido: `script/guion_resumido.md`
+- Build (Windows): [Release](https://github.com/JesusGarayPF/tfg_idle_rpg/releases)
+- Presentación PPT: disponible en `presentation/TFG_Juego.pptx` en el [repositiorio del proyecto](https://github.com/JesusGarayPF/tfg_idle_rpg/blob/main/Mainlander-Stranded-in-Darkness%20.pptx)
 
 > Nota: los assets (imágenes/música) se generaron/compusieron con herramientas de apoyo y se acreditan dentro del repositorio.
 
 ---
 
-## Experiencia práctica (resumen)
+## Experiencia práctica
 
 ### ShareSquare (Erasmus, Bulgaria) — Prácticas
 Participé en iniciativas de prototipado y automatización:
@@ -66,4 +69,10 @@ Trabajo en inglés con Slack/videollamadas/tickets, metodología Agile, Jira y G
 
 ---
 
-Si desean más información siéntanse libres de contactarme a través de los canales disponibles y de consultar mi CV o LinkedIn.
+## Contacto
+
+Ante cualquier duda pueden consultar o contarme en:  
+**Jesús Garay Franco**  
+LinkedIn: https://www.linkedin.com/in/jesus-garay-franco/  
+Email: jesus.garay.f@gmail.com
+CV: [JesúsGarayFranco - 2026](https://github.com/JesusGarayPF/portfolio/blob/main/CV%20JesusGarayFranco%202026.pdf)

@@ -12,8 +12,8 @@ Desarrollador junior con formación en DAM y experiencia práctica en integraci�
 
 ### 1) Escriba — App offline-first (STT/TTS/diarización/síntesis)
 **Qué es:** aplicación modular con herramientas de transcripción (STT), síntesis (TTS), diarización y resúmenes; diseñada con enfoque **offline-first** y preparada para funcionar en **web / desktop / móvil**.  
-**Stack:** Angular (v20, zoneless), Node.js, Express, TypeScript, Whisper.cpp (STT), Piper (TTS), FFmpeg 
-**Puntos fuertes:**
+**Stack:** Angular (v20, zoneless), Node.js, Express, TypeScript, Whisper.cpp (STT), Piper (TTS), FFmpeg   
+**Puntos fuertes:**  
 - Arquitectura modular para cambiar proveedores/servicios sin reescribir el producto
 - Persistencia local y flujo offline-first
 - Funionalidad obtenida: STT, TTS, Diarización (Incluye la creación de salas y gestión de la conexión entre   hablantes)
@@ -28,7 +28,7 @@ Desarrollador junior con formación en DAM y experiencia práctica en integraci�
 
 **Qué es:** aplicación para buscar y coleccionar GIFs integrada con la **API de Giphy**, enfocada en una experiencia rápida y reactiva.  
 **Stack**: Angular v20 (Signals), TypeScript, RxJS, Tailwind CSS v4, Giphy API  
-**Puntos fuertes:**
+**Puntos fuertes:**  
 - Búsqueda en tiempo real
 - Historial de búsquedas con **persistencia en LocalStorage**
 - Vista de **Trending GIFs** al iniciar
@@ -43,7 +43,7 @@ Desarrollador junior con formación en DAM y experiencia práctica en integraci�
 ### 3) TFG — Idle RPG (Unity) — Showcase
 **Qué es:** prototipo jugable de un Idle RPG hecho en Unity (TFG), centrado en UI, arquitectura y loop de progreso.  
 **Stack:** Unity, C#, UI Toolkit (UXML/USS)  
-**Qué trabajé:**
+**Qué trabajé:**  
 - UI con UXML/USS (pantallas, navegación, componentes)
 - Diseño de arquitectura inspirada en separación de lógica / datos (principios SOLID)
 - Base para modelos de datos y progreso (idle)

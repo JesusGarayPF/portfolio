@@ -26,8 +26,8 @@ Desarrollador junior con formación en DAM y experiencia práctica en integraci�
 
 ### GifsApp — Buscador y colección de GIFs (Angular + Giphy)
 
-**Qué es:** aplicación para buscar y coleccionar GIFs integrada con la **API de Giphy**, enfocada en una experiencia rápida y reactiva.
-**Stack**: Angular v20 (Signals), TypeScript, RxJS, Tailwind CSS v4, Giphy API
+**Qué es:** aplicación para buscar y coleccionar GIFs integrada con la **API de Giphy**, enfocada en una experiencia rápida y reactiva.  
+**Stack**: Angular v20 (Signals), TypeScript, RxJS, Tailwind CSS v4, Giphy API  
 **Puntos fuertes:**
 - Búsqueda en tiempo real
 - Historial de búsquedas con **persistencia en LocalStorage**

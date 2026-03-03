@@ -67,9 +67,3 @@ Trabajo en inglés con Slack/videollamadas/tickets, metodología Agile, Jira y G
 ---
 
 Si desean más información siéntanse libres de contactarme a través de los canales disponibles y de consultar mi CV o LinkedIn.
-
----
-
-## Contacto
-Si quieres ver una demo guiada o comentar algún proyecto:  
-📫 [TU_EMAIL] · 🔗 [TU_LINKEDIN]

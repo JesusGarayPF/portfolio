@@ -1,6 +1,6 @@
 # Jesús Garay Franco — Portfolio
 
-Desarrollador junior con formación en DAM y experiencia práctica en integración y automatización (Azure Functions + HubSpot), y en desarrollo web (Angular/TS). Me interesan tanto el trabajo en back como en front la arquitectura modular, los productos que se puedan desplegar en web/escritorio/móvil y el uso de agentes IA para automatización
+Desarrollador junior con formación en DAM y experiencia práctica en integración y automatización (Azure Functions + HubSpot), y en desarrollo web (Angular/TS). Me interesan tanto el trabajo en back como en front, la arquitectura modular, los productos que se puedan desplegar en web/escritorio/móvil y el uso de agentes IA para automatización
 
 - 📍 Madrid, España
 - 🔗 LinkedIn: https://www.linkedin.com/in/jesus-garay-franco/

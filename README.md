@@ -52,7 +52,7 @@ Desarrollador junior con formación en DAM y experiencia práctica en integraci�
 **Descarga y materiales:**
 - Build (Windows): [Release](https://github.com/JesusGarayPF/tfg_idle_rpg/releases)
 - Video Demo: [Enlace a youtube](https://youtu.be/_EuvobKsNzM)
-- Presentación PPT: disponible en `presentation/TFG_Juego.pptx` en el [repositiorio del proyecto](https://github.com/JesusGarayPF/tfg_idle_rpg/blob/main/Mainlander-Stranded-in-Darkness%20.pptx)
+- Presentación PPT: disponible en el [repositiorio del proyecto](https://github.com/JesusGarayPF/tfg_idle_rpg/blob/main/Mainlander-Stranded-in-Darkness%20.pptx)
 
 > Nota: los assets (imágenes/música) se generaron/compusieron con herramientas de apoyo y se acreditan dentro del repositorio.
 

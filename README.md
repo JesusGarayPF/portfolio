@@ -58,6 +58,16 @@ Desarrollador junior con formación en DAM y experiencia práctica en integraci�
 
 ---
 
+### Ejercicios y Proyectos de Formación (DAM)
+
+Repositorio con **7 proyectos completos** y **+40 ejercicios categorizados** realizados durante el ciclo DAM, organizados por tecnología y concepto.
+
+Incluye: API REST (Spring Boot), capa DAO con HikariCP, Tetris (Java Swing), juego multijugador con sockets, módulos Odoo, ejercicios de multihilo, cifrado AES, Hibernate/JPA, JDBC, XML, apps Android y más.
+
+**Repo:** [Proyectos y Ejercicios DAM](https://github.com/JesusGarayPF/proyectos-ejercicios-DAM)
+
+---
+
 ## Experiencia práctica
 
 ### ShareSquare (Erasmus, Bulgaria) — Prácticas
